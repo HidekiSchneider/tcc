@@ -1,0 +1,5 @@
+-launch roscore
+-lauch coppelia 
+--Select simulation
+-cd teste/src
+--rosrun teste manager_node teste.cpp
